@@ -1,2 +1,4 @@
-# owe2a-afvinkopdracht1-yamgeboers
-owe2a-afvinkopdracht1-yamgeboers created by GitHub Classroom
+# Afvink1Periode2
+#Afvink1Periode2 v1.1
+#Afvink1Periode2 v1.2
+# README
